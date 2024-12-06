@@ -1,6 +1,6 @@
 
 # Projeto Alura Plus+
-<h1>Este é o 2º projeto desenvolvido no curso da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.</h1>
+<h1>Este é o 2º projeto desenvolvido no curso da Formação Front End da Plataforma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.</h1>
 
 <br>
 
